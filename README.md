@@ -3,4 +3,4 @@ Hello world tutorial for GitHub
 
 Hi there!
 
-I like butter cookies.
+I am learning to use GitHub.
